@@ -12847,8 +12847,7 @@ body:not(.editing) .sitetopic ul.section {
   margin-right: 6px;
   vertical-align: text-bottom; }
 
-.section .activity .activityinstance,
-.section .activity .activityinstance div {
+.section .activity .activityinstance {
   display: inline-block; }
 
 .editing .section .activity .contentwithoutlink,
